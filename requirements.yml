@@ -1,0 +1,11 @@
+name: CNN
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - matplotlib
+  - keras
+  - tensorflow
+  - ipykernel
+prefix: /Users/aaronvegu/Downloads/ENTER/envs/CNN
