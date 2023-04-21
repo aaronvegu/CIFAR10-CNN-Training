@@ -8,4 +8,5 @@ dependencies:
   - keras
   - tensorflow
   - ipykernel
+  - numpy=1.22.3
 prefix: /Users/aaronvegu/Downloads/ENTER/envs/CNN
