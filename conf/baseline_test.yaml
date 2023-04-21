@@ -1,0 +1,5 @@
+run_path: './outputs/'
+defaults:
+  - _self_
+  - model: vgg
+  - optimizer: sdg

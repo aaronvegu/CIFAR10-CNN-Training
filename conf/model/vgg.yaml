@@ -1,0 +1,7 @@
+model_type: sequential
+architecture: vgg
+num_blocks: 3
+activation_function: relu
+kernel_initializer: he_uniform
+epochs: 100
+batch_size: 64
